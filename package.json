@@ -1,7 +1,7 @@
 {
-  "name": "hn-parser",
+  "name": "hacker-news-parser",
   "version": "1.0.0",
-  "description": "A simple parser for Hackernews, based on cheerio.",
+  "description": "A simple parser for Hacker News, based on cheerio.",
   "main": "index.js",
   "scripts": {
     "test": "ava"
