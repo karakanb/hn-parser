@@ -25,3 +25,11 @@ Returns an array of object, where an object is as follows:
   "threadLink": "item?id=16992852"
 }
 ```
+
+## Test
+```
+npm run test
+```
+
+## License
+The project is under MIT license.
