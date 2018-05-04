@@ -1,4 +1,4 @@
-# hacker-news-parser
+# hn-parser
 An NPM module to parse given Hacker News HTML content. Generates an array of objects.
 
 ```json
@@ -17,9 +17,14 @@ An NPM module to parse given Hacker News HTML content. Generates an array of obj
 }
 ```
 
+## Install
+```
+npm install hn-parser
+```
+
 ## Usage
 ```js
-const parser = require('hacker-news-parser')
+const parser = require('hn-parser')
 const items = parser.parse(HTMLString);
 ```
 
