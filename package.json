@@ -1,7 +1,11 @@
 {
   "name": "hacker-news-parser",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A simple parser for Hacker News, based on cheerio.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karakanb/hacker-news-parser"
+  },
   "main": "index.js",
   "scripts": {
     "test": "ava"
