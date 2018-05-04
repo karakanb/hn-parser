@@ -1,10 +1,10 @@
 {
-  "name": "hacker-news-parser",
+  "name": "hn-parser",
   "version": "0.1.0",
   "description": "A simple parser for Hacker News, based on cheerio.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/karakanb/hacker-news-parser"
+    "url": "https://github.com/karakanb/hn-parser"
   },
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,15 @@
   },
   "devDependencies": {
     "ava": "1.0.0-beta.4"
-  }
+  },
+  "keywords": [
+    "hacker-news",
+    "parser",
+    "hn",
+    "hackernews"
+  ],
+  "bugs": {
+    "url": "https://github.com/karakanb/hn-parser/issues"
+  },
+  "homepage": "https://github.com/karakanb/hn-parser"
 }
