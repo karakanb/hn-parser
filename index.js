@@ -23,7 +23,7 @@ function parseHn(hackerNewsHtml) {
       score: commentLine.find('.score').text().trim(),
       user: {
         name: hnUser.text().trim(),
-        link: hnUser.attr('href')
+        link: hnUser.attr('href') ? hnUser.attr('href') : null
       },
       age: commentLine.find('.age').text().trim(),
       commentCount: hasCommentCount ? commentCount.text().trim() : null,

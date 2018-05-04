@@ -1,18 +1,18 @@
-const parser = require('./index')
-const fs = require('fs');
-const sampleData = fs.readFileSync('./hn.html');
+import test from 'ava';
+import parser from './index'
+import fs from 'fs';
 
-var items = parser.parse(sampleData);
-
-parser.parseAsync(sampleData, (items) => {
-  fs.writeFile("./output.json", JSON.stringify(items, null, 4), function (err) {
-    if (err) {
-      return console.log(err);
-    }
-  
-    console.log("The file was saved!");
-  });
+test('sync-parse', t => {
+  const sampleData = fs.readFileSync('./hn.html');
+  const expectedResult = JSON.parse(fs.readFileSync('./test_output.json'));
+  const items = parser.parse(sampleData);
+  t.deepEqual(items, expectedResult)
 });
 
-
-
+test('async-parse', t => {
+  const sampleData = fs.readFileSync('./hn.html');
+  parser.parseAsync(sampleData, (items) => {
+    const expectedResult = JSON.parse(fs.readFileSync('./test_output.json'));
+    t.deepEqual(items, expectedResult)
+  });
+});

@@ -317,7 +317,8 @@
         "siteString": "workable.com",
         "score": "",
         "user": {
-            "name": ""
+            "name": "",
+            "link": null
         },
         "age": "2 hours ago",
         "commentCount": null,
