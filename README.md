@@ -1,14 +1,5 @@
 # hacker-news-parser
-An NPM module to parse given Hacker News HTML content. Generates a JSON format, ready to be consumed.
-
-## Usage
-```js
-const parser = require('hacker-news-parser')
-const items = parser.parse(HTMLString);
-```
-
-## Sample Data
-Returns an array of object, where an object is as follows:
+An NPM module to parse given Hacker News HTML content. Generates an array of objects.
 
 ```json
 {
@@ -24,6 +15,12 @@ Returns an array of object, where an object is as follows:
   "commentCount": "14 comments",
   "threadLink": "item?id=16992852"
 }
+```
+
+## Usage
+```js
+const parser = require('hacker-news-parser')
+const items = parser.parse(HTMLString);
 ```
 
 ## Test
