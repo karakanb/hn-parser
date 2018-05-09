@@ -1,5 +1,5 @@
 # hn-parser
-An NPM module to parse given Hacker News HTML content. Generates an array of objects.
+An NPM module to parse given Hacker News HTML content. Generates an array of objects to consume. The JSON structure will be the same for every instance, with non-existing values presented as `null`.
 
 ```json
 {
