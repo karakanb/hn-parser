@@ -17,15 +17,15 @@ function parseHn(hackerNewsHtml) {
 
     // Append the element information to the list.
     items[i] = {
-      title: link.text().trim(),
-      link: link.attr('href'),
-      siteString: item.find('.sitestr').text().trim(),
-      score: commentLine.find('.score').text().trim(),
+      title: link.text().trim() ? link.text().trim() : null,
+      link: link.attr('href') ? link.attr('href') : null,
+      siteString: item.find('.sitestr').text().trim() || null,
+      score: commentLine.find('.score').text().trim() || null,
       user: {
-        name: hnUser.text().trim(),
-        link: hnUser.attr('href') ? hnUser.attr('href') : null
+        name: hnUser.text().trim() || null,
+        link: hnUser.attr('href') || null
       },
-      age: commentLine.find('.age').text().trim(),
+      age: commentLine.find('.age').text().trim() || null,
       commentCount: hasCommentCount ? commentCount.text().trim() : null,
       threadLink: hasCommentCount ? commentCount.attr('href') : null
     }
