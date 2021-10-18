@@ -8,15 +8,18 @@ function parseHn(hackerNewsHtml) {
     // Retrieve base items.
     var item = $(this);
     var commentLine = item.next()
-    var link = item.find('.storylink');
+    var link = item.find('.titlelink');
 
     // Retrieve the useful DOM elements.
     var commentCount = commentLine.find('a').last();
-    var hasCommentCount = commentCount.text().trim() !== 'hide';
     var hnUser = commentLine.find('.hnuser');
 
+    if (commentCount.text().trim() == 'hide') {
+      return;
+    }
+
     // Append the element information to the list.
-    items[i] = {
+    items.push({
       title: link.text().trim() ? link.text().trim() : null,
       link: link.attr('href') ? link.attr('href') : null,
       siteString: item.find('.sitestr').text().trim() || null,
@@ -26,9 +29,9 @@ function parseHn(hackerNewsHtml) {
         link: hnUser.attr('href') || null
       },
       age: commentLine.find('.age').text().trim() || null,
-      commentCount: hasCommentCount ? commentCount.text().trim() : null,
-      threadLink: hasCommentCount ? commentCount.attr('href') : null
-    }
+      commentCount: commentCount.text().trim(),
+      threadLink: commentCount.attr('href')
+    });
   });
 
   return items;

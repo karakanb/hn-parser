@@ -1,392 +1,379 @@
 [
     {
-        "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
-        "link": "https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html",
-        "siteString": "googleblog.com",
-        "score": "1273 points",
+        "title": "MacBook Pro 14-inch and MacBook Pro 16-inch",
+        "link": "https://www.apple.com/macbook-pro-14-and-16/",
+        "siteString": "apple.com",
+        "score": "905 points",
         "user": {
-            "name": "ivank",
-            "link": "user?id=ivank"
-        },
-        "age": "13 hours ago",
-        "commentCount": "521 comments",
-        "threadLink": "item?id=17022963"
-    },
-    {
-        "title": "A Short Introduction to the Art of Programming – Edsgar W. Dijkstra [pdf]",
-        "link": "https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD316.PDF",
-        "siteString": "utexas.edu",
-        "score": "134 points",
-        "user": {
-            "name": "Rescis",
-            "link": "user?id=Rescis"
-        },
-        "age": "5 hours ago",
-        "commentCount": "8 comments",
-        "threadLink": "item?id=17026822"
-    },
-    {
-        "title": "Red Hat Releases Roadmap for CoreOS Integration",
-        "link": "https://www.redhat.com/en/about/press-releases/red-hat-unveils-roadmap-coreos-integration-red-hat-openshift",
-        "siteString": "redhat.com",
-        "score": "62 points",
-        "user": {
-            "name": "davidmr",
-            "link": "user?id=davidmr"
+            "name": "0xedb",
+            "link": "user?id=0xedb"
         },
         "age": "4 hours ago",
-        "commentCount": "16 comments",
-        "threadLink": "item?id=17027097"
+        "commentCount": "1182 comments",
+        "threadLink": "item?id=28908383"
     },
     {
-        "title": "You can now run Linux apps on Chrome OS",
-        "link": "https://techcrunch.com/2018/05/08/you-can-now-run-linux-apps-on-chrome-os/",
-        "siteString": "techcrunch.com",
-        "score": "443 points",
+        "title": "Apple’s new M1 Pro and M1 Max processors",
+        "link": "https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/",
+        "siteString": "apple.com",
+        "score": "620 points",
         "user": {
-            "name": "willsinclair",
-            "link": "user?id=willsinclair"
+            "name": "emdashcomma",
+            "link": "user?id=emdashcomma"
         },
-        "age": "10 hours ago",
-        "commentCount": "198 comments",
-        "threadLink": "item?id=17024637"
+        "age": "4 hours ago",
+        "commentCount": "571 comments",
+        "threadLink": "item?id=28908031"
     },
     {
-        "title": "Yubico and Microsoft Introduce Passwordless Login",
-        "link": "https://www.yubico.com/2018/04/yubico-and-microsoft-introduce-passwordless-login/",
-        "siteString": "yubico.com",
-        "score": "217 points",
+        "title": "Show HN: Simple access to your music from the web",
+        "link": "https://github.com/DusteDdk/dstream",
+        "siteString": "github.com/dusteddk",
+        "score": "70 points",
         "user": {
-            "name": "guitarbill",
-            "link": "user?id=guitarbill"
+            "name": "dusted",
+            "link": "user?id=dusted"
         },
-        "age": "13 hours ago",
-        "commentCount": "153 comments",
-        "threadLink": "item?id=17022764"
+        "age": "2 hours ago",
+        "commentCount": "14 comments",
+        "threadLink": "item?id=28910368"
     },
     {
-        "title": "Eshell as a main shell",
-        "link": "https://ambrevar.bitbucket.io/emacs-eshell/",
-        "siteString": "bitbucket.io",
-        "score": "65 points",
+        "title": "Open-sourcing the MuJoCo physics simulator for robotics",
+        "link": "https://deepmind.com/blog/announcements/mujoco",
+        "siteString": "deepmind.com",
+        "score": "255 points",
         "user": {
-            "name": "taeric",
-            "link": "user?id=taeric"
+            "name": "stokaasto",
+            "link": "user?id=stokaasto"
         },
         "age": "6 hours ago",
-        "commentCount": "24 comments",
-        "threadLink": "item?id=17026490"
+        "commentCount": "47 comments",
+        "threadLink": "item?id=28906333"
     },
     {
-        "title": "The Cutting Room Floor: Unearthing Unused Content from Video Games",
-        "link": "https://tcrf.net/The_Cutting_Room_Floor",
-        "siteString": "tcrf.net",
-        "score": "97 points",
+        "title": "Building on soil in Big Sandy: Regenerative organic farming in rural Montana",
+        "link": "https://montanafreepress.org/2021/10/14/building-on-soil-in-big-sandy-regenerative-organic-agriculture/",
+        "siteString": "montanafreepress.org",
+        "score": "40 points",
         "user": {
-            "name": "indescions_2018",
-            "link": "user?id=indescions_2018"
+            "name": "emilywolfe",
+            "link": "user?id=emilywolfe"
         },
-        "age": "9 hours ago",
-        "commentCount": "11 comments",
-        "threadLink": "item?id=17020285"
+        "age": "2 hours ago",
+        "commentCount": "5 comments",
+        "threadLink": "item?id=28910510"
     },
     {
-        "title": "LispKit: framework for Lisp-based extension/scripting languages for macOS apps",
-        "link": "https://github.com/objecthub/swift-lispkit#swift-lispkit",
-        "siteString": "github.com",
-        "score": "65 points",
+        "title": "YouTube: filmmakers presumed guilty until maybe proven innocent",
+        "link": "https://larryjordan.com/articles/youtube-filmmakers-presumed-guilty-until-maybe-proven-innocent/",
+        "siteString": "larryjordan.com",
+        "score": "249 points",
+        "user": {
+            "name": "relwin",
+            "link": "user?id=relwin"
+        },
+        "age": "4 hours ago",
+        "commentCount": "98 comments",
+        "threadLink": "item?id=28907994"
+    },
+    {
+        "title": "Physicists make most precise measurement ever of neutron’s lifetime",
+        "link": "https://www.nature.com/articles/d41586-021-02812-z",
+        "siteString": "nature.com",
+        "score": "9 points",
+        "user": {
+            "name": "mkoc",
+            "link": "user?id=mkoc"
+        },
+        "age": "37 minutes ago",
+        "commentCount": "2 comments",
+        "threadLink": "item?id=28911883"
+    },
+    {
+        "title": "AWS is playing chess, Cloudflare is playing Go",
+        "link": "https://www.swyx.io/cloudflare-go/",
+        "siteString": "swyx.io",
+        "score": "621 points",
+        "user": {
+            "name": "pimterry",
+            "link": "user?id=pimterry"
+        },
+        "age": "11 hours ago",
+        "commentCount": "225 comments",
+        "threadLink": "item?id=28903982"
+    },
+    {
+        "title": "Code CAD – Use code to create CAD models",
+        "link": "https://cadhub.xyz/u/caterpillar/moving_fish/ide",
+        "siteString": "cadhub.xyz",
+        "score": "114 points",
+        "user": {
+            "name": "todsacerdoti",
+            "link": "user?id=todsacerdoti"
+        },
+        "age": "6 hours ago",
+        "commentCount": "56 comments",
+        "threadLink": "item?id=28906735"
+    },
+    {
+        "title": "Firecracker MicroVMs",
+        "link": "https://firecracker-microvm.github.io/",
+        "siteString": "firecracker-microvm.github.io",
+        "score": "91 points",
+        "user": {
+            "name": "colinprince",
+            "link": "user?id=colinprince"
+        },
+        "age": "5 hours ago",
+        "commentCount": "29 comments",
+        "threadLink": "item?id=28893884"
+    },
+    {
+        "title": "Attorney General orders unregistered crypto lending platforms to exit NY",
+        "link": "https://ag.ny.gov/press-release/2021/attorney-general-james-directs-unregistered-crypto-lending-platforms-cease",
+        "siteString": "ny.gov",
+        "score": "132 points",
+        "user": {
+            "name": "graeme",
+            "link": "user?id=graeme"
+        },
+        "age": "5 hours ago",
+        "commentCount": "123 comments",
+        "threadLink": "item?id=28907648"
+    },
+    {
+        "title": "My indoor rowing tips after 15M meters",
+        "link": "https://onlyrss.org/posts/my-rowing-tips-after-15-million-meters.html",
+        "siteString": "onlyrss.org",
+        "score": "14 points",
+        "user": {
+            "name": "tnorthcutt",
+            "link": "user?id=tnorthcutt"
+        },
+        "age": "1 hour ago",
+        "commentCount": "7 comments",
+        "threadLink": "item?id=28911503"
+    },
+    {
+        "title": "The Toynbee Convector",
+        "link": "https://en.wikipedia.org/wiki/The_Toynbee_Convector",
+        "siteString": "wikipedia.org",
+        "score": "37 points",
+        "user": {
+            "name": "PaulHoule",
+            "link": "user?id=PaulHoule"
+        },
+        "age": "4 hours ago",
+        "commentCount": "14 comments",
+        "threadLink": "item?id=28890230"
+    },
+    {
+        "title": "What to Learn",
+        "link": "https://danluu.com/learn-what/",
+        "siteString": "danluu.com",
+        "score": "272 points",
+        "user": {
+            "name": "pyb",
+            "link": "user?id=pyb"
+        },
+        "age": "11 hours ago",
+        "commentCount": "89 comments",
+        "threadLink": "item?id=28904021"
+    },
+    {
+        "title": "Std: Execution, Sender/Receiver, and the Continuation Monad",
+        "link": "https://sdowney.org/index.php/2021/10/03/stdexecution-sender-receiver-and-the-continuation-monad/",
+        "siteString": "sdowney.org",
+        "score": "22 points",
         "user": {
             "name": "ingve",
             "link": "user?id=ingve"
         },
-        "age": "8 hours ago",
-        "commentCount": "8 comments",
-        "threadLink": "item?id=17019719"
+        "age": "2 hours ago",
+        "commentCount": "6 comments",
+        "threadLink": "item?id=28894851"
     },
     {
-        "title": "Dynimize: Speed Up MySQL with CPU Performance Virtualization",
-        "link": "https://dynimize.com/",
-        "siteString": "dynimize.com",
+        "title": "Conspiracy Theories and Religion: Reframing Conspiracy Theories as Bliks",
+        "link": "https://www.cambridge.org/core/journals/episteme/article/abs/conspiracy-theories-and-religion-reframing-conspiracy-theories-as-bliks/5C6A020BDEEC2BFB3189120A15CFCB73",
+        "siteString": "cambridge.org",
+        "score": "10 points",
+        "user": {
+            "name": "mathematically",
+            "link": "user?id=mathematically"
+        },
+        "age": "1 hour ago",
+        "commentCount": "discuss",
+        "threadLink": "item?id=28910767"
+    },
+    {
+        "title": "Sequoia PGP is now LGPL 2.0",
+        "link": "https://sequoia-pgp.org/blog/2021/10/18/202110-sequoia-pgp-is-now-lgpl-2.0/",
+        "siteString": "sequoia-pgp.org",
         "score": "74 points",
         "user": {
-            "name": "nwrk",
-            "link": "user?id=nwrk"
+            "name": "nwalfield",
+            "link": "user?id=nwalfield"
         },
-        "age": "9 hours ago",
-        "commentCount": "19 comments",
-        "threadLink": "item?id=17025627"
+        "age": "6 hours ago",
+        "commentCount": "28 comments",
+        "threadLink": "item?id=28906099"
     },
     {
-        "title": "Upcall (YC W17) Is Hiring a Sales – Human Phone Call API",
-        "link": "https://angel.co/upcall/jobs",
-        "siteString": "angel.co",
-        "score": null,
+        "title": "Mach Engine: The Future of Graphics (With Zig)",
+        "link": "https://devlog.hexops.com/2021/mach-engine-the-future-of-graphics-with-zig",
+        "siteString": "hexops.com",
+        "score": "20 points",
         "user": {
-            "name": null,
-            "link": null
-        },
-        "age": "49 minutes ago",
-        "commentCount": null,
-        "threadLink": null
-    },
-    {
-        "title": "Android P",
-        "link": "https://www.blog.google/products/android/android-p/",
-        "siteString": "blog.google",
-        "score": "245 points",
-        "user": {
-            "name": "alanfranzoni",
-            "link": "user?id=alanfranzoni"
-        },
-        "age": "11 hours ago",
-        "commentCount": "195 comments",
-        "threadLink": "item?id=17024245"
-    },
-    {
-        "title": "How to Find Investors and Get Email Intros",
-        "link": "https://www.atrium.co/blog/how-to-find-meet-investors/",
-        "siteString": "atrium.co",
-        "score": "100 points",
-        "user": {
-            "name": "meredithah",
-            "link": "user?id=meredithah"
-        },
-        "age": "12 hours ago",
-        "commentCount": "26 comments",
-        "threadLink": "item?id=17023632"
-    },
-    {
-        "title": "Glassdoor, the iconic job-hunting website, has been bought for $1.2B",
-        "link": "https://www.recode.net/2018/5/8/17333912/glassdoor-acquisiton-recruit-holdings-1-2-billion",
-        "siteString": "recode.net",
-        "score": "37 points",
-        "user": {
-            "name": "openmosix",
-            "link": "user?id=openmosix"
+            "name": "ArtWomb",
+            "link": "user?id=ArtWomb"
         },
         "age": "3 hours ago",
-        "commentCount": "7 comments",
-        "threadLink": "item?id=17027287"
+        "commentCount": "6 comments",
+        "threadLink": "item?id=28909786"
     },
     {
-        "title": "Anarchists in the Spanish Civil War (2002)",
-        "link": "http://www.isreview.org/issues/24/anarchists_spain.shtml",
-        "siteString": "isreview.org",
-        "score": "59 points",
+        "title": "OpenMW: Open-source reimplementation of TES3 Morrowind",
+        "link": "https://github.com/OpenMW/openmw",
+        "siteString": "github.com/openmw",
+        "score": "236 points",
         "user": {
-            "name": "dgarceran",
-            "link": "user?id=dgarceran"
-        },
-        "age": "9 hours ago",
-        "commentCount": "26 comments",
-        "threadLink": "item?id=17019365"
-    },
-    {
-        "title": "Early thoughts on Uber's flying car from an aviation engineer",
-        "link": "https://noviceanalysis.wordpress.com/2018/05/08/ubers-flying-taxi/",
-        "siteString": "noviceanalysis.wordpress.com",
-        "score": "13 points",
-        "user": {
-            "name": "trevoragilbert",
-            "link": "user?id=trevoragilbert"
-        },
-        "age": "4 hours ago",
-        "commentCount": "5 comments",
-        "threadLink": "item?id=17026964"
-    },
-    {
-        "title": "Mozilla Global Sprint 2018",
-        "link": "https://github.com/mozilla/global-sprint/milestone/1",
-        "siteString": "github.com",
-        "score": "198 points",
-        "user": {
-            "name": "robterthaddeus",
-            "link": "user?id=robterthaddeus"
-        },
-        "age": "11 hours ago",
-        "commentCount": "25 comments",
-        "threadLink": "item?id=17023981"
-    },
-    {
-        "title": "Write Emails Faster with Smart Compose in Gmail",
-        "link": "https://www.blog.google/products/gmail/subject-write-emails-faster-smart-compose-gmail",
-        "siteString": "blog.google",
-        "score": "186 points",
-        "user": {
-            "name": "devhxinc",
-            "link": "user?id=devhxinc"
+            "name": "agluszak",
+            "link": "user?id=agluszak"
         },
         "age": "13 hours ago",
-        "commentCount": "170 comments",
-        "threadLink": "item?id=17022695"
+        "commentCount": "92 comments",
+        "threadLink": "item?id=28903451"
     },
     {
-        "title": "Everything old is new again: Microservices",
-        "link": "https://blogs.dxc.technology/2018/05/08/everything-old-is-new-again-microservices/",
-        "siteString": "dxc.technology",
-        "score": "18 points",
+        "title": "Expensify S-1",
+        "link": "https://www.sec.gov/Archives/edgar/data/1476840/000162828021020115/expensifys-1.htm",
+        "siteString": "sec.gov",
+        "score": "71 points",
         "user": {
-            "name": "CrankyBear",
-            "link": "user?id=CrankyBear"
+            "name": "mattmarcus",
+            "link": "user?id=mattmarcus"
         },
-        "age": "7 hours ago",
-        "commentCount": "7 comments",
-        "threadLink": "item?id=17026215"
+        "age": "3 hours ago",
+        "commentCount": "59 comments",
+        "threadLink": "item?id=28909502"
     },
     {
-        "title": "Conversations with a six-year-old on functional programming",
-        "link": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
-        "siteString": "byorgey.wordpress.com",
-        "score": "1907 points",
+        "title": "Tests aren’t enough: Case study after adding type hints to urllib3",
+        "link": "https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3",
+        "siteString": "sethmlarson.dev",
+        "score": "149 points",
         "user": {
-            "name": "weatherlight",
-            "link": "user?id=weatherlight"
+            "name": "quentinp",
+            "link": "user?id=quentinp"
         },
-        "age": "1 day ago",
-        "commentCount": "268 comments",
-        "threadLink": "item?id=17015661"
+        "age": "5 hours ago",
+        "commentCount": "120 comments",
+        "threadLink": "item?id=28907154"
     },
     {
-        "title": "Fake news was illegal in 17th century colonial Massachusetts",
-        "link": "http://blog.mass.gov/masslawlib/legal-history/the-law-against-lying-and-false-news-in-colonial-massachusetts/",
-        "siteString": "mass.gov",
-        "score": "160 points",
+        "title": "Bayesian histograms for rare event classification",
+        "link": "https://dionhaefner.github.io/2021/09/bayesian-histograms-for-rare-event-classification/",
+        "siteString": "dionhaefner.github.io",
+        "score": "45 points",
         "user": {
-            "name": "jimschley",
-            "link": "user?id=jimschley"
+            "name": "dionhaefner",
+            "link": "user?id=dionhaefner"
         },
-        "age": "12 hours ago",
-        "commentCount": "162 comments",
-        "threadLink": "item?id=17023220"
-    },
-    {
-        "title": "Superconducting Optoelectronic Neurons I: General Principles",
-        "link": "https://arxiv.org/abs/1805.01929",
-        "siteString": "arxiv.org",
-        "score": "24 points",
-        "user": {
-            "name": "indescions_2018",
-            "link": "user?id=indescions_2018"
-        },
-        "age": "9 hours ago",
-        "commentCount": "1 comment",
-        "threadLink": "item?id=17025367"
-    },
-    {
-        "title": "Building a Progressive Web App in React, using Firestore for offline support",
-        "link": "https://blog.truthlabs.com/building-a-progressive-web-app-in-react-11c77a7fccb3",
-        "siteString": "truthlabs.com",
-        "score": "50 points",
-        "user": {
-            "name": "sconstantinides",
-            "link": "user?id=sconstantinides"
-        },
-        "age": "7 hours ago",
+        "age": "6 hours ago",
         "commentCount": "3 comments",
-        "threadLink": "item?id=17026150"
+        "threadLink": "item?id=28882461"
     },
     {
-        "title": "Google I/O 2018 codelabs",
-        "link": "https://codelabs.developers.google.com/io2018",
-        "siteString": "developers.google.com",
-        "score": "18 points",
+        "title": "Of Scarface and the Nobel – The Double Life of Mariel",
+        "link": "https://adamtooze.com/2021/10/12/chartbook-45-of-scarface-the-nobel-the-double-life-of-mariel/",
+        "siteString": "adamtooze.com",
+        "score": "12 points",
         "user": {
-            "name": "marcacohen",
-            "link": "user?id=marcacohen"
+            "name": "smollett",
+            "link": "user?id=smollett"
         },
-        "age": "9 hours ago",
-        "commentCount": "discuss",
-        "threadLink": "item?id=17025653"
+        "age": "2 hours ago",
+        "commentCount": "1 comment",
+        "threadLink": "item?id=28900374"
     },
     {
-        "title": "Google’s ML Kit makes it easy to add AI smarts to iOS and Android apps",
-        "link": "https://techcrunch.com/2018/05/08/googles-ml-kit-makes-it-easy-to-add-ai-smart-to-ios-and-android-apps/",
-        "siteString": "techcrunch.com",
-        "score": "186 points",
+        "title": "Spatial Keyboard Navigation",
+        "link": "https://danilowoz.com/blog/spatial-keyboard-navigation",
+        "siteString": "danilowoz.com",
+        "score": "54 points",
         "user": {
-            "name": "coloneltcb",
-            "link": "user?id=coloneltcb"
+            "name": "danilowoz",
+            "link": "user?id=danilowoz"
+        },
+        "age": "7 hours ago",
+        "commentCount": "12 comments",
+        "threadLink": "item?id=28895961"
+    },
+    {
+        "title": "How PHP Opcache Works",
+        "link": "https://www.npopov.com/2021/10/13/How-opcache-works.html",
+        "siteString": "npopov.com",
+        "score": "116 points",
+        "user": {
+            "name": "orangepanda",
+            "link": "user?id=orangepanda"
+        },
+        "age": "10 hours ago",
+        "commentCount": "61 comments",
+        "threadLink": "item?id=28875791"
+    },
+    {
+        "title": "Issues we've encountered while building a Kafka based data processing pipeline",
+        "link": "https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d",
+        "siteString": "sixfold.medium.com",
+        "score": "136 points",
+        "user": {
+            "name": "poolik",
+            "link": "user?id=poolik"
         },
         "age": "12 hours ago",
-        "commentCount": "22 comments",
-        "threadLink": "item?id=17023305"
+        "commentCount": "60 comments",
+        "threadLink": "item?id=28903614"
     },
     {
-        "title": "Ask HN: Any good collaboratively built documentation on good parenting?",
-        "link": "item?id=17023693",
-        "siteString": null,
-        "score": "137 points",
+        "title": "DuckDuckGo has had 0 search warrants since founding in 2008",
+        "link": "https://twitter.com/DuckDuckGo/status/1447559362906447874",
+        "siteString": "twitter.com/duckduckgo",
+        "score": "196 points",
         "user": {
-            "name": "davidpelayo",
-            "link": "user?id=davidpelayo"
+            "name": "arkadiyt",
+            "link": "user?id=arkadiyt"
         },
-        "age": "12 hours ago",
-        "commentCount": "87 comments",
-        "threadLink": "item?id=17023693"
+        "age": "6 hours ago",
+        "commentCount": "108 comments",
+        "threadLink": "item?id=28906622"
     },
     {
-        "title": "Great technology should improve life, not distract from it",
-        "link": "https://wellbeing.google/",
-        "siteString": "wellbeing.google",
-        "score": "175 points",
+        "title": "Show HN: Onetun – Access your WireGuard network from anywhere",
+        "link": "https://github.com/aramperes/onetun",
+        "siteString": "github.com/aramperes",
+        "score": "52 points",
         "user": {
-            "name": "panarky",
-            "link": "user?id=panarky"
+            "name": "momothereal",
+            "link": "user?id=momothereal"
         },
-        "age": "11 hours ago",
-        "commentCount": "89 comments",
-        "threadLink": "item?id=17023917"
+        "age": "6 hours ago",
+        "commentCount": "10 comments",
+        "threadLink": "item?id=28884938"
     },
     {
-        "title": "Amazon’s Fake Review Economy",
-        "link": "https://www.buzzfeed.com/nicolenguyen/amazon-fake-review-problem",
-        "siteString": "buzzfeed.com",
-        "score": "249 points",
+        "title": "What =delete means",
+        "link": "https://quuxplusone.github.io/blog/2021/10/17/equals-delete-means/",
+        "siteString": "quuxplusone.github.io",
+        "score": "90 points",
         "user": {
-            "name": "jonbaer",
-            "link": "user?id=jonbaer"
+            "name": "todsacerdoti",
+            "link": "user?id=todsacerdoti"
         },
-        "age": "14 hours ago",
-        "commentCount": "106 comments",
-        "threadLink": "item?id=17022215"
-    },
-    {
-        "title": "ls | grep “echo ${data}” – Why/how does this work?",
-        "link": "https://zerobin.net/?9c76eb78e61f7138#+VAz8M7SHT3oZmSj7PSyr8zreoL3sRX5diPUvGO1uxE=",
-        "siteString": "zerobin.net",
-        "score": "59 points",
-        "user": {
-            "name": "indigodaddy",
-            "link": "user?id=indigodaddy"
-        },
-        "age": "9 hours ago",
-        "commentCount": "31 comments",
-        "threadLink": "item?id=17025612"
-    },
-    {
-        "title": "A Plane That Accidentally Circumnavigated the World (2014)",
-        "link": "https://medium.com/lapsed-historian/the-long-way-round-the-plane-that-accidentally-circumnavigated-the-world-c04ca734c6bb",
-        "siteString": "medium.com",
-        "score": "219 points",
-        "user": {
-            "name": "SeoxyS",
-            "link": "user?id=SeoxyS"
-        },
-        "age": "16 hours ago",
-        "commentCount": "34 comments",
-        "threadLink": "item?id=17018851"
-    },
-    {
-        "title": "‘My Hovercraft Is Full of Eels’ in Many Languages",
-        "link": "https://omniglot.com/language/phrases/hovercraft.htm",
-        "siteString": "omniglot.com",
-        "score": "7 points",
-        "user": {
-            "name": "dbasedweeb",
-            "link": "user?id=dbasedweeb"
-        },
-        "age": "4 hours ago",
-        "commentCount": "2 comments",
-        "threadLink": "item?id=17027151"
+        "age": "8 hours ago",
+        "commentCount": "113 comments",
+        "threadLink": "item?id=28905021"
     }
 ]
