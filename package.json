@@ -8,7 +8,8 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "regenerate-test-content": "node test_content/generate_sample_output.js"
   },
   "author": "Burak Karakan",
   "license": "MIT",

@@ -8,7 +8,7 @@ function parseHn(hackerNewsHtml) {
     // Retrieve base items.
     var item = $(this);
     var commentLine = item.next()
-    var link = item.find('.titlelink');
+    var link = item.find('.titleline a');
 
     // Retrieve the useful DOM elements.
     var commentCount = commentLine.find('a').last();
@@ -29,7 +29,7 @@ function parseHn(hackerNewsHtml) {
         link: hnUser.attr('href') || null
       },
       age: commentLine.find('.age').text().trim() || null,
-      commentCount: commentCount.text().trim(),
+      commentCount: commentCount.text().trim().replace(' ', ' '),
       threadLink: commentCount.attr('href')
     });
   });
