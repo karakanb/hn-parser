@@ -20,7 +20,7 @@ function parseHn(hackerNewsHtml) {
 
     // Append the element information to the list.
     items.push({
-      title: link.text().trim() ? link.text().trim() : null,
+      title: link.html().trim() ? link.html().trim() : null,
       link: link.attr('href') ? link.attr('href') : null,
       siteString: item.find('.sitestr').text().trim() || null,
       score: commentLine.find('.score').text().trim() || null,
