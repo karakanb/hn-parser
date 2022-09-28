@@ -1,6 +1,6 @@
-import test from 'ava';
-import parser from './index'
-import fs from 'fs';
+test = require('ava')
+parser = require('./index')
+fs = require('fs')
 
 const sampleDataPath = './test_content/hn.html'
 const expectedOutputPath = './test_content/expected_output.json'

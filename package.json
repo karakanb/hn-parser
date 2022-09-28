@@ -17,7 +17,7 @@
     "cheerio": "^1.0.0-rc.12"
   },
   "devDependencies": {
-    "ava": "1.0.0-beta.4"
+    "ava": "^4.3.3"
   },
   "keywords": [
     "hacker-news",
